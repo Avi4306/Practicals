@@ -10,7 +10,9 @@ int main()
     if(a>=0)
     {
     for(i=1;i<=a;i++)
-    f = f*i;
+        {
+            f = f*i;
+        }
     printf("Factorial of %d is %d", a, f);
     }
     else
