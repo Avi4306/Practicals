@@ -23,6 +23,6 @@ int main()
 
     Pecentage = (Total * 100)/500;
 
-    printf("Total Marks: %d\n", Total);
+    printf("Total Marks: %.2f\n", Total);
     printf("Percentage: %.2f", Pecentage);
 }
