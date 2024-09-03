@@ -8,7 +8,7 @@ int main()
     printf("Simple Calculator\n");
     printf("Enter the arithmetic operation to perform\n");
     printf("a for addition, s for subtraction, m for multiplication, d for division \n");
-    scanf("%c", &op);
+    scanf(" %c", &op);
 
     printf("Enter two numbers: \n");
     printf("Number 1: \n");
