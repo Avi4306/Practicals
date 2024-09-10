@@ -45,8 +45,4 @@ int main()
     {
         printf("%d is not a Armstrong number", a);
     }
-    
-
-
-
 }
